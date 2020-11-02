@@ -1,5 +1,6 @@
 body {
     background-color: black;
+    font-family: Verdana, sans-serif;
 }
 
 header{
@@ -17,4 +18,40 @@ text-align: center;
 .intro-link{
     font-size: 16px;
     color: aquamarine;
+    text-align: center;
+}
+
+.container{
+padding-top: 10px;
+}
+
+.landing-video{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.gray{
+font-size: 21px;
+color: gray;
+text-align: center;
+}
+
+.landing-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link{
+    align-items: center;
+justify-content: center;
+text-align: center;
+}
+
+h3{
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
 }
